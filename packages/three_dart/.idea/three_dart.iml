@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/flutter_gl_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl/example/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gl/flutter_gl_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/inzynierka/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/inzynierka/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inzynierka/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
