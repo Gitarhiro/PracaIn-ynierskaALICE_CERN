@@ -2,20 +2,15 @@
 # Praca Inżynierska ALICE_CERN
 Jest to repozytorium projektu na pracę inżynierską, opierającą się na wizualizacji eksperymentu ALICE znajdującego się w CERN
 =======
-# inzynierka
+To run the application it is necesary to download all Flutter SDK environments.
+After installing flutter run 
 
-A new Flutter project.
+  flutter doctor
 
-## Getting Started
+to check if every necesary program for the application is avaiable on the device.
+After succesful test, run 
 
-This project is a starting point for a Flutter application.
+  flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the application
 >>>>>>> master
